@@ -7921,6 +7921,7 @@ h1, h2, h3, h4, h5,
     z-index: 0; }
     .blog-entry .text .category {
       text-transform: uppercase;
+      color: #f05d23;
       font-size: 12px;
       letter-spacing: 1px; }
     .blog-entry .text h3 {
@@ -7935,7 +7936,7 @@ h1, h2, h3, h4, h5,
         width: 100%; }
       .blog-entry .text .meta-wrap .meta span {
         margin: 0 5px;
-        color: #b3b3b3; }
+        color: #f05d23; }
         .blog-entry .text .meta-wrap .meta span i {
           margin-right: 10px; }
       .blog-entry .text .meta-wrap .btn {
@@ -7964,7 +7965,7 @@ h1, h2, h3, h4, h5,
         color: #000000; }
   .blog-entry .author span {
     font-size: 18px;
-    color: #b3b3b3; }
+    color: #f05d23; }
   .blog-entry .text-2 h3 {
     font-size: 22px;
     font-weight: 700; }
@@ -8199,7 +8200,7 @@ textarea.form-control {
     line-height: 1.5;
     margin-bottom: 15px; }
   .block-23 ul li span {
-    color: rgba(255, 255, 255, 0.5); }
+    color: #f05d23; }
   .block-23 ul li .icon, .block-23 ul li .text {
     display: table-cell;
     vertical-align: top; }
@@ -8446,7 +8447,7 @@ textarea.form-control {
         position: absolute;
         right: 0;
         top: 0;
-        color: #ccc; }
+        color: #f05d23; }
     .categories li.active a, .sidelink li.active a {
       color: #000000;
       font-style: italic; }
@@ -8496,7 +8497,7 @@ textarea.form-control {
   -webkit-animation: loader-rotate 2s linear infinite;
   animation: loader-rotate 2s linear infinite;
   position: absolute;
-  left: calc(50% - 24px);
+  left: calc(61%);
   top: calc(50% - 24px);
   display: block;
   -webkit-transform: rotate(0deg);
